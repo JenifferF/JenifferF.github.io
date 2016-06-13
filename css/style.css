@@ -1561,11 +1561,9 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
   z-index: 99;
 };*/
 
-#top{
   h2{
     text-align: center;
   }
-}
 /*.what-mian{
   li{
     width: 25%;
@@ -1580,7 +1578,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
     }
   }
 }*/
-.work-one h2{
+.work-one h3{
   color: #000;
   font-family: "微软雅黑";
 }
