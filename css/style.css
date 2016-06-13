@@ -172,6 +172,9 @@ body a:hover{
   	margin: 0 auto 0;
   	position: relative;
 }
+.what-one{
+  border:1px solid #666;
+}
 .what-one span{
 	/*background:url(../images/services.png) no-repeat;*/
 	width:82px;
