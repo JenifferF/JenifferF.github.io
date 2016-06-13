@@ -1561,7 +1561,9 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
   opacity: 1;
   z-index: 99;
 };
-
+.contact-btn a{
+  display: none;
+}
   #album{
     text-align: center;
     margin: 0 auto;
