@@ -1562,8 +1562,9 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
   z-index: 99;
 };
 
-  h2{
+  #album{
     text-align: center;
+    margin: 0 auto;
     margin-bottom: 10px;
   }
 /*.what-mian{
