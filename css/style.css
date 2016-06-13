@@ -1557,7 +1557,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
 /*--media-quaries-ends-here--*/
 
 .work-one img:hover{
-  transform:rotate(360deg);
+  transform:rotate(90deg);
   opacity: 1;
   z-index: 99;
 };
