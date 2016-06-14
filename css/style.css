@@ -1559,7 +1559,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
 .work-one img:hover{
   transform:scale(1.2,1.2);
   opacity: 1;
-  z-index: 99;
+  z-index: 99999;
 };
 .contact-btn a{
   display: none;
